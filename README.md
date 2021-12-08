@@ -23,7 +23,7 @@
 
 |윤영미(팀장)|이미진|지현정|
 |:-:|:-:|:-:|
-|<img src="https://user-images.githubusercontent.com/76260153/145205435-0f4a48e5-f356-4bf0-b0b3-34e6855dd543.png" width="300" height="300">|<img src="https://user-images.githubusercontent.com/76260153/145202298-80ceb27c-48f4-4dd9-9fca-036390af3a22.jpeg" width=300 height="300">|<img src="https://user-images.githubusercontent.com/76260153/145205067-7e76dd29-1de4-4409-9f85-f2ab73ed39a4.jpg" width=300 height="300">|
+|<img src="https://user-images.githubusercontent.com/76260153/145205942-d2de1b99-3e47-44fe-919f-ef52963441b0.png" width="300" height="300">|<img src="https://user-images.githubusercontent.com/76260153/145202298-80ceb27c-48f4-4dd9-9fca-036390af3a22.jpeg" width=300 height="300">|<img src="https://user-images.githubusercontent.com/76260153/145205067-7e76dd29-1de4-4409-9f85-f2ab73ed39a4.jpg" width=300 height="300">|
 
 - 인공지능: 강서현
 - 3D 프린터: 최예진
