@@ -1,9 +1,10 @@
 # Hanium-2019: 돌꽁 🐳
+
 <p float="left">
   <img src="https://user-images.githubusercontent.com/76260153/145200119-23556933-652f-43cc-ba8c-ceadf199f688.jpeg" width="400" />
   <img src="https://user-images.githubusercontent.com/76260153/145201321-cf5bfdd8-384a-443a-b319-338f7be2b91c.jpg" width="400" height="400"/> 
-   
 </p>
+
 ## 프로젝트 설명 
 안전에 취약한 독거노인을 위한 인공지능 서비스를 겸비한 생활 안전 IoT 가습기   
 
