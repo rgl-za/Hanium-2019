@@ -77,5 +77,3 @@
 <br>
 3. 가스 누출 감지 상태
 <img src="https://user-images.githubusercontent.com/76260153/145196850-b138c0f4-e8b4-4ae4-ab7a-9bee22422cd6.gif">
-
-
